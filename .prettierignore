@@ -1,0 +1,7 @@
+node_modules/
+dist/
+public/data/brazil-states.json
+package-lock.json
+*.tsbuildinfo
+test-results/
+playwright-report/
